@@ -35,3 +35,28 @@ This project analyzes global football match data to uncover historical trends in
 - **Volume Growth**: Match frequency remained low and stable until roughly 1950. Since then, there has been an exponential increase, peaking at 1,229 matches in a single year during the early 21st century.
 - **Scoring Evolution**: The "Average Goal by Year" chart shows significant volatility in the early years (with peaks above 7.0). However, scoring has stabilized significantly over the last century, trending toward a consistent average of 2.0 goals per match in modern times.
 
+### Performance & Results Distribution
+
+- **Win/Loss Breakdown**:
+  - Home Wins: 49% (24.04K matches)
+  - Away Wins: 28.27% (13.87K matches)
+  - Draws: 22.73% (11.16K matches)
+- **Top Performing Teams**: Zambia leads the dataset with the highest count of wins (358), followed by Yugoslavia (223) and Zimbabwe (188).
+
+## Project Structure
+
+Football-Team-Performance-Analysis/
+├── README.md
+├── LICENSE
+├── Raw_data/
+│   └── Football data.xlsx          # Original raw data from Kaggle
+├── Clean_data/
+│   └── Football data.xlsx          # Cleaned and processed data
+├── Descriprtion/
+│   └── Description.txt             # Detailed analysis summary
+└── Result/
+    ├── Football Analysis.pbix      # Power BI dashboard file
+    └── Football Team Performance Analysis .png  # Dashboard screenshot
+
+
+
