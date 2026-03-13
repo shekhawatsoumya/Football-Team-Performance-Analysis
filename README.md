@@ -58,5 +58,11 @@ Football-Team-Performance-Analysis/
     ├── Football Analysis.pbix      # Power BI dashboard file
     └── Football Team Performance Analysis .png  # Dashboard screenshot
 
+## Tools & Technologies
 
+- **Data Cleaning**: Power BI Power Query Editor
+- **Data Analysis & Visualization**: Power BI Desktop
+- **Data Storage**: Excel (.xlsx format)
+
+---
 
