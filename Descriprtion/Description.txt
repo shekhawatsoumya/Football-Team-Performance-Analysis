@@ -1,0 +1,19 @@
+Football Analysis Summary:
+This report summarizes global football match data based on the provided dashboard, covering historical trends in match volume, scoring, and team performance across 269 countries.
+
+1. Key Performance Indicators (KPIs)
+Total Matches: 49,000 recorded matches.
+Total Goals Scored: 144,000 goals.
+Scoring Efficiency: An average of 2.94 goals per match.
+Home Field Advantage: Home teams win approximately 49% of the time.
+
+2. Historical Match Trends
+Volume Growth: Match frequency remained low and stable until roughly 1950. Since then, there has been an exponential increase, peaking at 1,229 matches in a single year during the early 21st century.
+Scoring Evolution: The "Average Goal by Year" chart shows significant volatility in the early years (with peaks above 7.0). However, scoring has stabilized significantly over the last century, trending toward a consistent average of 2.0 goals per match in modern times.
+
+3. Performance & Results Distribution
+Win/Loss Breakdown:
+Home Wins: 49% (24.04K matches)
+Away Wins: 28.27% (13.87K matches)
+Draws: 22.73% (11.16K matches)
+Top Performing Teams: Zambia leads the dataset with the highest count of wins (358), followed by Yugoslavia (223) and Zimbabwe (188).
